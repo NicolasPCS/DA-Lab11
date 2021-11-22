@@ -4,6 +4,6 @@
 
 ```
 Experiencias --> Experiencia1
-/ Experiencia2 --> Experiencia2
-/ Experiencia3 --> Experiencia3
+Experiencia2 --> Experiencia2
+Experiencia3 --> Experiencia3
 ```
